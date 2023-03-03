@@ -1,8 +1,7 @@
 <div align='left'>
    <h1><b>Gian Souza Nunes</b>
       <img src="https://raw.githubusercontent.com/rodrigoreisbr-tech/data_science/master/img/brasilflagOK.png" alt="Language" width=30 height=20>
-      <img src="https://raw.githubusercontent.com/rodrigoreisbr-tech/data_science/master/img/canadaflagOK.png" alt="Language" width=30 height=20>
-    </p>
+  </p>
    </h1> 
   
 </div>
@@ -31,9 +30,9 @@ I am excited about the possibilities for growth in the technology sector and I h
 
 <br>
  <div>
-  <a href="https://github.com/rgiansouzanunes">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=giansouzanunes&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giansouzanunes&layout=compact&langs_count=14&theme=tokyonight"/>
+  <a href="https://github.com/gian-nunes">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=gian-nunes&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gian-nunes&layout=compact&langs_count=14&theme=tokyonight"/>
 </div>
 <br>   
 
@@ -58,5 +57,5 @@ List of Landing Pages:
    
    
   <div>
-  <img src="https://komarev.com/ghpvc/?username=giansouzanunes&color=blue" alt="giansouzanunes"/>
+  <img src="https://komarev.com/ghpvc/?username=gian-nunes&color=blue" alt="gian-nunes"/>
   </div>
