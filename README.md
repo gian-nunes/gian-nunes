@@ -41,18 +41,6 @@ I am excited about the possibilities for growth in the technology sector and I h
 
 
 ## Projects:
-List of projects in Jupyter Notebook:
-
-* **(EXEMPLO) Análise dos Dados do Airbnb Vancouver BC:** https://bit.ly/DadosAirbnb
-
-
-
-List of Landing Pages:
-
-* **(EXEMPLO) Évora Digital:** http://evora.digital/
-
-   
----
 
    
    
