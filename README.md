@@ -18,16 +18,33 @@
 
 ### Hello! Welcome to my profile
 
-As a student of the Analysis and Systems Development course at Unifil, I am acquiring fundamental technical and theoretical skills to perform in the technology market. Among the skills I have been developing, I highlight object-oriented programming in various languages such as Java, Python, and C#, as well as web development using HTML, CSS, JavaScript, and frameworks like React and Angular.
+Olá! Seja bem-vindo(a) ao meu perfil
 
-In addition to these technical skills, I have intermediate English proficiency, as well as communication and teamwork skills.
+Sou desenvolvedor com interesse em tecnologia e desenvolvimento de software, sempre buscando aprimorar minhas habilidades, aprender novas tecnologias e criar soluções eficientes para problemas reais.
 
-My current goal is to seek opportunities in back-end development in Python and GoLang, languages that I have been studying with dedication.
+Acredito na combinação entre conhecimento técnico, criatividade e inovação para desenvolver aplicações de qualidade. Também utilizo ferramentas de Inteligência Artificial (IA) para otimizar meu fluxo de trabalho, agilizar o desenvolvimento e aumentar minha produtividade.
 
-I have a desire to improve my skills and gain experience in a challenging and collaborative environment, as I believe this is the best way to grow and develop professionally. I am committed to contributing to the success of the projects I participate in, using my creativity and dedication to deliver quality solutions.
+Tecnologias e ferramentas
+Back-end: Node.js, Python
+Front-end: React, JavaScript, TypeScript, HTML e CSS
+Banco de dados: SQL
+Infraestrutura e mensageria: Docker, Apache Kafka e Debezium
+Inteligência Artificial: utilização de ferramentas de IA para auxiliar no desenvolvimento, otimizar processos e aumentar a produtividade.
+Objetivos profissionais
 
-I am excited about the possibilities for growth in the technology sector and I hope to have the opportunity to add value to your company.
+Meu objetivo é crescer profissionalmente na área de tecnologia, evoluindo como desenvolvedor Full Stack e ampliando meus conhecimentos tanto no desenvolvimento front-end quanto no back-end.
 
+Busco desenvolver aplicações completas, trabalhar com APIs, integração entre sistemas, bancos de dados e soluções escaláveis, sempre explorando boas práticas de desenvolvimento e novas tecnologias.
+
+Aprendizado contínuo
+
+Estou sempre em busca de novos conhecimentos e desafios que contribuam para minha evolução profissional. Valorizo a colaboração, a resolução de problemas e o uso inteligente da tecnologia para desenvolver soluções cada vez melhores.
+
+Contato
+
+Estou aberto a oportunidades profissionais, colaborações em projetos e conexões com pessoas da área de tecnologia.
+
+Obrigado por visitar meu perfil!
 <br>
  <div>
   <a href="https://github.com/gian-nunes">
